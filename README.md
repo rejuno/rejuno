@@ -9,14 +9,15 @@
 <br>
 
 <div align = "center"> ⚙ Languages and Tools: 
-  <br>
-  <br>
+<br>
+<br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg"></code> 
+</div>
 <br>
 <br>
 
@@ -31,15 +32,15 @@
 </div>  
 <br>
 <br>  
+
   <div align = "center"> 🦔 Social Networks:
     <br>
     <br>
    <code><a href="https://www.linkedin.com/in/renata-justiniano-novais-a362501a2/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></code>
-    
   </div>  
+<br>
+<br>
 
-<br>
-<br>
 <div align="left">
   <a href="https://github.com/rejuno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rejuno&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
