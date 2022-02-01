@@ -48,5 +48,5 @@
 </div>
 <br>  
 <div align ="right">
-  <img src="https://drive.google.com/file/d/1D7zcJ953It5DJYoWg0malX5wfgrl44yV/view?usp=sharing"/>
+  <img height= "50" src="https://drive.google.com/file/d/1D7zcJ953It5DJYoWg0malX5wfgrl44yV/view?usp=sharing"/>
 </div>
