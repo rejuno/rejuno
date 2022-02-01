@@ -31,7 +31,7 @@
 </div>  
   
   <div align = "center"> Social Networks:
-    <code><a href= "www.linkedin.com/in/renata-justiniano-novais-a362501a2" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></code></a>
+    <a href= "www.linkedin.com/in/renata-justiniano-novais-a362501a2" target = "_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     
   </div>  
 
