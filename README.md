@@ -8,7 +8,7 @@
 -   😃 Pronouns: she/her
 <br>
 
-<div align = "center">Languages and Tools: 
+<div align = "center"> ⚙ Languages and Tools: 
   <br>
   <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -19,7 +19,13 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg"></code> 
 
   
+  <div align = "center"> 🖍 Designer:
+ <br>
+ <br>
+ <code><img height="20" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"></code>
   
+  
+  </div>  
   
   
   
