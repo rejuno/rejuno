@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/98842524/152054912-384990d5-2d8f-437d-801f-5d559385b162.jpg"/>
+
 👋 Hi, I’m Renata 
 -   🙋🏾‍♀️ Systems Analysis and Development Student at IFSP (Instituto Federal de São Paulo - Campus Cubatão).
 -   👀 I’m interested in web development and game development.
@@ -8,7 +8,7 @@
 -   ⚡ Fun fact: I'm horrible playing RPG
 -   😃 Pronouns: she/her
 <br>
-
+<br>
 <div align = "center"> ⚙ Languages and Tools: 
 <br>
 <br>
