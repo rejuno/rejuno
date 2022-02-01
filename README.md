@@ -30,8 +30,10 @@
 <code><img height="30" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></code>  
 </div>  
   
-  <div align = "center"> Social Networks:
-   <a href="www.linkedin.com/in/renata-justiniano-novais-a362501a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <div align = "center"> 🦔 Social Networks:
+    <br>
+    <br>
+   <a href="https://www.linkedin.com/in/renata-justiniano-novais-a362501a2/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
   </div>  
 
