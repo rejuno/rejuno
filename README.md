@@ -5,3 +5,4 @@
 -   📫 Email: renata.juno2020@gmail.com 
 -   🗨  Ask me about: HTML, CSS. 
 -   ⚡ Fun fact: I'm horrible playing RPG
+-   😃 Pronouns: she/her
