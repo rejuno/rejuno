@@ -23,7 +23,7 @@
 <div align = "center"> 🖍 Designer:
 <br>
 <br>
-<code><img height="20" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"></code>
+<code><img height="50" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"></code>
   
   
   </div>  
