@@ -1,12 +1,23 @@
 
+<img align = "center" src = "https://user-images.githubusercontent.com/98842524/152055450-a806ac96-1016-42fd-9cde-55892943ca60.png"/>
+<br>
+<div align = "left">
 👋 Hi, I’m Renata 
+  <br>
 -   🙋🏾‍♀️ Systems Analysis and Development Student at IFSP (Instituto Federal de São Paulo - Campus Cubatão).
+  <br>
 -   👀 I’m interested in web development and game development.
--   🌱 I’m currently learning JavaScript, MySQL, C#
--   📫 Email: renata.juno2020@gmail.com 
+  <br>
+-   🌱 I’m currently learning JavaScript, MySQL, C#.
+  <br>
+-   📫 Email: renata.juno2020@gmail.com.
+  <br>
 -   🗨  Ask me about: HTML, CSS. 
+  <br>
 -   ⚡ Fun fact: I'm horrible playing RPG
+  <br>
 -   😃 Pronouns: she/her
+</div>
 <br>
 <br>
 <div align = "center"> ⚙ Languages and Tools: 
