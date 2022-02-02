@@ -1,5 +1,5 @@
 
-<img align = "center" src = "https://user-images.githubusercontent.com/98842524/152057001-e49bb65f-e84a-485d-ac2c-6fe1821a99ed.png"/>
+<img align = "center" src = "https://user-images.githubusercontent.com/98842524/152231699-a507548a-9f14-4434-bd44-1231f518e4bd.png"/>
 <br>
 <div align = "left">
 👋 Hi, I’m Renata 
