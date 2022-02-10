@@ -14,9 +14,13 @@
 <h1>
 </div>
  
+
+<div align = "left">  
  
- ![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=rejuno&show_icons=true&theme=omni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejuno&layout=compact&theme=omni)](https://github.com/rejuno/github-readme-stats)
+![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=rejuno&show_icons=true&theme=omni) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejuno&theme=omni)](https://github.com/rejuno/github-readme-stats)
+</iv>
+
 <div align = "center">
 <h1>
 </div>
