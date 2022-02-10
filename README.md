@@ -1,19 +1,26 @@
 ![Follow](https://img.shields.io/github/followers/rejuno.svg?style=social&label=Follow&maxAge=2592000)
-<div>
-  <img align = "center" src = "https://user-images.githubusercontent.com/98842524/152231699-a507548a-9f14-4434-bd44-1231f518e4bd.png"/>
-</div>
 
-### Olá! Eu sou a Renata Novais 👋🏾
+<div align = "center">
+<h1>Olá! Eu sou a Renata Novais 👋🏾
+</div>
 
  - 🙋🏾‍♀️ Systems Analysis and Development Student at IFSP (Instituto Federal de São Paulo - Campus Cubatão).
  - 👀 I’m interested in web development and game development.
  - 🌱 I’m currently learning JavaScript, MySQL, C#.
  - ⚡ Fun fact: I'm horrible playing RPG
  - 😃 Pronouns: she/her
+
+<div align = "center">
+<h1>
+</div>
+ 
  
  ![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=rejuno&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejuno&layout=compact&theme=omni)](https://github.com/rejuno/github-readme-stats)
-
+<div align = "center">
+<h1>
+</div>
+  
 ### 🦔 Social Networks
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renata-justiniano-novais-a362501a2/)
