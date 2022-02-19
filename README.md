@@ -9,6 +9,7 @@
  - 🌱 I’m currently learning JavaScript, MySQL, C#.
  - ⚡ Fun fact: I'm horrible playing RPG
  - 😃 Pronouns: she/her
+ - 🧙🏿‍♀️ Chaotic Good
 
 <div align = "center">
 <h1>
