@@ -4,7 +4,7 @@
 <h1>Olá! Eu sou a Renata Novais 👋🏾
 </div>
 
- - 🙋🏾‍♀️ Systems Analysis and Development Student at IFSP (Instituto Federal de São Paulo - Campus Cubatão).
+ - 🙋🏾‍♀️ Systems Analysis and Development Student at IFSP (Instituto Federal de São Paulo - Campus São Paulo).
  - 👀 I’m interested in web development and game development.
  - 🌱 I’m currently learning JavaScript, MySQL, C#.
  - ⚡ Fun fact: I'm horrible playing RPG
