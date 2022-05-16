@@ -6,7 +6,7 @@
 
  - 🙋🏾‍♀️ Systems Analysis and Development Student at IFSP (Instituto Federal de São Paulo - Campus São Paulo).
  - 👀 I’m interested in web development and game development.
- - 🌱 I’m currently learning JavaScript, MySQL, C#.
+ - 🌱 I’m currently learning JavaScript, MySQL, C#, C, Java.
  - ⚡ Fun fact: I'm horrible playing RPG
  - 😃 Pronouns: she/her
  - 🧙🏿‍♀️ Chaotic Evil
