@@ -10,7 +10,7 @@
  - ⚡ Fun fact: I'm horrible playing RPG
  - 😃 Pronouns: she/her
  - 🧙🏿‍♀️ Chaotic Evil
- - Venha me conhecer mais! - [Portifólio](https://rejunoport.netlify.app/)
+ - 📌 Venha me conhecer mais! - [Portifólio](https://rejunoport.netlify.app/)
 
 <div align = "center">
 <h1>
