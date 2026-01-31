@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatajnovais/)
 
 
-## 🌸 Olá! Meu nome é Renata e sou Desenvolvedora FullStack 🌸
+# 🌸 Olá! Meu nome é Renata e sou Desenvolvedora FullStack 🌸
 
 Sou formada em Análise e Desenvolvimento de Sistemas e curso **Pós-graduação em Desenvolvimento Full Stack**. Atuo no desenvolvimento de interfaces e aplicações web, com foco em **Front-end** e **Full Stack**, criando soluções modernas, responsivas e performáticas.
 
@@ -48,5 +48,13 @@ Tenho experiência com **WordPress (Elementor e Divi)**, participando de todo o 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=renatajustinianonovais&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=ff40cb&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=renatajustinianonovais&redirect=true)
 
+## Fora do Código
+😃 Amo o estilo de Pixel Art em jogos <br>
+💕 Meu anime favorito é Katekyo hitman reborn <br>
+🌺 Minha cor favorita é Rosa <br>
+🧙🏿‍♀️ Chaotic Evil (RPG) <br>
+🎨 Gosto de desenhar <br>
 
-
+## 💌 Vamos conversar?
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatajustinianonovais@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatajnovais/)
