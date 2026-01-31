@@ -12,7 +12,7 @@
 
 Sou formada em Análise e Desenvolvimento de Sistemas e curso **Pós-graduação em Desenvolvimento Full Stack**. Atuo no desenvolvimento de interfaces e aplicações web, com foco em **Front-end** e **Full Stack**, criando soluções modernas, responsivas e performáticas.
 
-Tenho experiência com **WordPress (Elementor e Divi)**, participando de todo o processo — do design à publicação e manutenção — o que reforçou meu cuidado com qualidade, usabilidade e resultados. Aplico boas práticas de **UX**, **SEO**, **acessibilidade**, **segurança** e **performance**, e estou em constante evolução técnica, buscando projetos onde design e desenvolvimento caminham juntos.
+Tenho experiência com **WordPress (Elementor e Divi)**, participando de todo o processo do **design à publicação e manutenção** o que reforçou meu cuidado com qualidade, usabilidade e resultados. Aplico boas práticas de **UX**, **SEO**, **acessibilidade**, **segurança** e **performance**, e estou em constante evolução técnica, buscando projetos onde design e desenvolvimento caminham juntos.
 
 ## 🛠️ Tecnologias e ferramentas
 ### Frontend
