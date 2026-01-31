@@ -57,4 +57,6 @@ Tenho experiência com **WordPress (Elementor e Divi)**, participando de todo o 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatajustinianonovais@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatajnovais/)
 
-![Kanna tomando chá](https://github.com/rejuno/imagensreadmenovo2026/blob/main/kanna.gif)
+<div align = "right">
+  <img height="300" src="https://github.com/rejuno/imagensreadmenovo2026/blob/main/kanna.gif"/>
+</div>
