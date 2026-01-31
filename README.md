@@ -38,8 +38,6 @@ Tenho experiência com **WordPress (Elementor e Divi)**, participando de todo o 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-
-### DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Análise de Dados
@@ -58,3 +56,5 @@ Tenho experiência com **WordPress (Elementor e Divi)**, participando de todo o 
 ## 💌 Vamos conversar?
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatajustinianonovais@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatajnovais/)
+
+![Kanna tomando chá](https://github.com/rejuno/imagensreadmenovo2026/blob/main/kanna.gif)
