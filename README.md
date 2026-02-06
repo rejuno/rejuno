@@ -5,7 +5,7 @@
 
 ![Renata Justiniano Novais Desenvolvedora Frontend](https://github.com/user-attachments/assets/d0f36bb6-f685-4d59-957f-f93c05ab435c)
 
-<br>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatajustinianonovais@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatajnovais/)
 
