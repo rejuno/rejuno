@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatajnovais/)
 
 
-# 🌸 Olá! Meu nome é Renata e sou Desenvolvedora FullStack 🌸
+# 🌸 Olá! Meu nome é Renata e sou Desenvolvedora Frontend 🌸
 
 Sou formada em Análise e Desenvolvimento de Sistemas e curso **Pós-graduação em Desenvolvimento Full Stack**. Atuo no desenvolvimento de interfaces e aplicações web, com foco em **Front-end** e **Full Stack**, criando soluções modernas, responsivas e performáticas.
 
