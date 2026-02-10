@@ -48,8 +48,6 @@ Trabalho com Git/GitHub, consumo de APIs REST, e aplico boas práticas de perfor
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=renatajustinianonovais&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=true&bar_color=ff40cb&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=renatajustinianonovais&redirect=true)
-
 ## Fora do Código
 😃 Amo o estilo de Pixel Art em jogos <br>
 💕 Meu anime favorito é Katekyo hitman reborn <br>
